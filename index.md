@@ -1,9 +1,9 @@
 Merhaba bu yazımızda sizlere ücretsiz eğitimlerden bahsedeceğim. Öncelikle belirtmek isterim ki buradaki eğitimleri detaylı şekilde takip ederek giriş/orta/ileri düzey ilgili kodlama dilini öğrenebilirsiniz. BTK Akademi sadece TC kimlik ve seri numarası talep etmektedir. 18 Yaşın altındaysanız bu yazının altındaki adımlar ile giriş yapabileceksiniz. Diğer eğitim sayfalarına giriş için e-posta ve belirleyeceğiniz parola yeterlidir. (iienstitü de eğitimlerin süresi bulunmaktadır. Derse kayıttan sonra 36-... gün boyunca o eğitimi alabilirsiniz süre geçtikten sonra eğitimi alabilmeniz için tekrar kayıt olmanız gerekmektedir. Aynı eğitim kurumunda ücretsiz eğitimler aktif 5 eğitim ile sınırlıdır.)
 
 Öncelikle iienstitü (istanbul işletme enstitüsü) ile alakalı işinize yarayacak eğitimleri sıralayacağız.
-1. C# Eğitimi : https://www.iienstitu.com/online-egitim/c-sharp-egitimi
-2. Python Eğitimi : https://www.iienstitu.com/online-egitim/python-egitimi
-3. After Effects Eğitimi : https://www.iienstitu.com/online-egitim/adobe-after-effects-egitimi
+1. C# Eğitimi :[ https://www.iienstitu.com/online-egitim/c-sharp-egitimi]( https://www.iienstitu.com/online-egitim/c-sharp-egitimi " https://www.iienstitu.com/online-egitim/c-sharp-egitimi")
+2. Python Eğitimi : [https://www.iienstitu.com/online-egitim/python-egitimi](https://www.iienstitu.com/online-egitim/python-egitimi "https://www.iienstitu.com/online-egitim/python-egitimi")
+3. After Effects Eğitimi : [https://www.iienstitu.com/online-egitim/adobe-after-effects-egitimi](https://www.iienstitu.com/online-egitim/adobe-after-effects-egitimi "https://www.iienstitu.com/online-egitim/adobe-after-effects-egitimi")
 4. HTML ve CSS3 Eğitimi : https://www.iienstitu.com/online-egitim/html5-ve-css3-egitimi
 5. 3D Tasarım Ve Animasyon Eğitimi : https://www.iienstitu.com/online-egitim/3d-gorsellestirme-egitimi
 Sırada İstanbul Boğaziçi Enstitüsü'nden işinize yarayacak eğitimler var.
